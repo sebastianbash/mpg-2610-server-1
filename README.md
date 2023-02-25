@@ -1,3 +1,7 @@
 # MPG | 2610 - S1
 
-cod. mpg-2610-s1
+Servidor en desarrollo.
+
+---
+
+Stack: Nodejs, Express, Typescript, MongoDB, Mongoose
